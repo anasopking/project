@@ -1,0 +1,19 @@
+{
+  "name": "SimUrgencias",
+  "tree": {
+    "$className": "DataModel",
+    "ServerScriptService": {
+      "$path": "src/ServerScriptService"
+    },
+    "ServerStorage": {
+      "SimUrgencias": {
+        "$path": "src/ServerStorage/SimUrgencias"
+      }
+    },
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "$path": "src/StarterPlayerScripts"
+      }
+    }
+  }
+}
